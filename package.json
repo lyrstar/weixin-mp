@@ -1,7 +1,7 @@
 {
   "name": "weixin-mp",
   "version": "1.0.0",
-  "description": "",
+  "description": "微信公众号api接口封装",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,15 +10,11 @@
     "type": "git",
     "url": "https://github.com/rrlyrstar/weixin-mp.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rrlyrstar/weixin-mp/issues"
-  },
-  "homepage": "https://github.com/rrlyrstar/weixin-mp",
-  "dependencies" : {
-    "express": "~4.13.1",
-    "xml2js" : "^0.4.17"
-
-  }
+  "keywords": [
+    "weixin",
+    "mp",
+    "node"
+  ],
+  "author": "lyrstar",
+  "license": "ISC"
 }
