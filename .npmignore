@@ -1,6 +1,6 @@
 sww# Created by .ignore support plugin (hsz.mobi)
 ### Node template
-# Logs
+# test
 test
 
 # Dependency directory
@@ -8,7 +8,7 @@ test
 node_modules
 
 ## Directory-based project format:
-.idea/
+.idea
 
 # vim temp file
 .*.swp
