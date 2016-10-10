@@ -1,5 +1,5 @@
 #weixin-mp
-https://github.com/rrlyrstar/weixin-mp.git
+[github主页](https://github.com/rrlyrstar/weixin-mp.git)
 #微信公众号api接口封装
 
 ***
